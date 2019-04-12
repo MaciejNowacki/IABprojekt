@@ -1,0 +1,223 @@
+body
+{
+	background-color: #00647B;
+	margin: 0;
+    padding: 0;
+}
+
+.comment
+{
+	min-height: 200px;
+	padding: 20px;
+}
+
+.leftSide
+{
+	float: left;
+	background-color:rgba(0, 0, 128, 0.05);
+}
+
+#content hr
+{
+	margin: 0px;
+}
+
+.news
+{
+	padding: 10px;
+}
+
+#main
+{
+	width: 80%;
+	margin-left: auto;
+    margin-right: auto;
+    min-width: 706px;
+}
+
+#header
+{
+	width: 100%;
+	height: 150px;
+	background-color: #04CFFF;
+}
+
+.editLink
+{
+	text-align: right !important;
+}
+
+#center
+{
+	width: 100%;
+	background-color: #007F9D;
+	clear: both;
+	min-height: 350px;
+}
+
+#footer
+{
+	width: 100%;
+	height: 25px;
+	background-color: #04CFFF;
+	position: relative;
+}
+
+#header_logo
+{
+	padding: 0;
+	margin: 0;
+	width: 200px;
+	padding-left: 25px;
+	padding-top: 2px;
+}
+
+#infoBar
+{
+	height: 150px;
+	width: 30%;
+	float: right;
+	margin: 0px;
+	padding: 0px;
+}
+
+#header_form
+{
+	margin: 0px;
+	padding: 5px 10px;
+	float: right;
+	text-align: center;
+	font-size: 14px;
+}
+
+#header_form input
+{
+	float: left;
+	margin-left: 10px;
+}
+
+a{
+	color: #000000;
+}
+
+#footer p
+{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+#content
+{
+	width: 80%;
+	background-color: #00B8E3;
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+	text-align: center;
+	min-height: 350px;
+}
+
+#content table
+{
+  	margin: 0px auto;
+}
+
+#content h3
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#content h6
+{
+	margin: 0px;
+}
+
+#content p
+{
+	padding: 0px !important;
+}
+
+#content a
+{
+	text-decoration: none;
+}
+
+#menu_right
+{
+	width: 20%;
+	height: 100%;
+	background-color: #007F9D;
+	float: right;
+}
+
+#menu_right a
+{
+	text-decoration: none;
+}
+
+#menu_right ul
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+#menu_right ol
+{
+	padding: 10px 0px 0px 0px;
+	margin: 0px 0px 0px 5px;
+}
+
+#menu_right li
+{
+	margin-left: 30px;
+}
+
+#content p
+{
+	margin: 0;
+	padding: 10px 10px 10px 10px;
+}
+
+#header_form a
+{
+	text-decoration: none;
+	color: #000000;
+}
+
+#header_form
+{
+	color: #000000;
+}
+
+.menuBar
+{
+	padding-left: 150px;
+	padding-top: 10px;
+}
+
+.error
+{
+	background-color: red;
+}
+
+.success
+{
+	background-color: green;
+}
+
+.info
+{
+	background-color: yellow;
+}
+
+.infoActivation
+{
+	text-decoration: underline;
+	font-size: 20px;
+	text-align: center;
+}
